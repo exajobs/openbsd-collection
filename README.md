@@ -20,7 +20,7 @@ Some reasons why we think OpenBSD is a useful operating system:
 OpenBSD is all free. The binaries are free. The source is free. All parts of OpenBSD have reasonable copyright terms permitting free redistribution. More about OpenBSD's copyright policy can be found here.
 The maintainers of OpenBSD support the project largely from their own pockets. This includes the time spent programming for the project, equipment used to support the many ports, network resources used to distribute OpenBSD to you, and the time spent answering questions and investigating users' bug reports. The OpenBSD developers are not independently wealthy, and even small contributions of time, equipment and resources make a big difference.
 
-What's included in the base system?
+### What's included in the base system?
 OpenBSD is distributed with a number of third-party software products, including:
 X.org
 LLVM/Clang
