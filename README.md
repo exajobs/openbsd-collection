@@ -35,8 +35,8 @@ OpenBSD is distributed with a number of third-party software products, including
 
 The OpenBSD team often patches third party products, typically to improve the security or quality of the code. Much home-grown software is also included. Additional applications are available as packages.
 
-## Index
-
+## Table of Contents
+* [Introduction](#about-openbsd)
 * [Official OpenBSD](#official-openbsd)
 * [Projects around OpenBSD](#projects-around-openbsd)
 * [OpenBSD Stats](#openbsd-stats)
