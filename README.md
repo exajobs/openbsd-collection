@@ -22,13 +22,13 @@ The maintainers of OpenBSD support the project largely from their own pockets. T
 
 ### What's included in the base system?
 OpenBSD is distributed with a number of third-party software products, including:
-X.org
-LLVM/Clang
-GCC
-Perl
-NSD and Unbound
-ncurses
-binutils
-gdb
-libfido2
+- X.org
+- LLVM/Clang
+- GCC
+- Perl
+- NSD and Unbound
+- ncurses
+- binutils
+- gdb
+- libfido2
 The OpenBSD team often patches third party products, typically to improve the security or quality of the code. Much home-grown software is also included. Additional applications are available as packages.
