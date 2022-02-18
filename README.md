@@ -3,7 +3,7 @@
 
 
 ## About OpenBSD
-The OpenBSD project produces a freely available, multi-platform 4.4BSD-based UNIX-like operating system. Our goals place emphasis on correctness, security, standardization, and portability.
+The [OpenBSD project](https://www.openbsd.org/faq/faq1.html) produces a freely available, multi-platform 4.4BSD-based UNIX-like operating system. Our goals place emphasis on correctness, security, standardization, and portability.
 
 ### Why might I want to use it?
 Some reasons why we think OpenBSD is a useful operating system:
