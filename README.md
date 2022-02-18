@@ -63,6 +63,8 @@ The OpenBSD team often patches third party products, typically to improve the se
 * [Portable OpenBSD Components](#portable-openbsd-components)
 * [OpenBSD Developers](#openbsd-developers)
 
+[Back to top](#table-of-contents)
+
 ## Official OpenBSD
 
 * [OpenBSD Project](https://www.openbsd.org/)
@@ -118,6 +120,8 @@ The OpenBSD team often patches third party products, typically to improve the se
 - `opensource` [OpenBSD Flashboot](https://github.com/kirei/flashboot)
 - `opensource` [FuguIta](http://fuguita.org/) is a live system based on OpenBSD that is designed to run from removable media. Note a portion of documentation is only available in Japanese.
 
+[Back to top](#table-of-contents)
+
 ## Hosting
 
 * `vmm` [OpenBSD Amsterdam](https://openbsd.amsterdam/)
@@ -140,6 +144,8 @@ The OpenBSD team often patches third party products, typically to improve the se
 * `shell` [Free Shell Accounts](https://shells.red-pill.eu/)
 * `shell` [tilde.institute](https://tilde.institute/) of OpenBSD Education
 * `bhyve` [bhyve.cloud](https://bhyve.cloud/)
+
+[Back to top](#table-of-contents)
 
 ## Virtualization
 
@@ -315,6 +321,8 @@ The OpenBSD team often patches third party products, typically to improve the se
 * [PF and Networking Tutorial](https://home.nuug.no/~peter/pftutorial/) - on BSDCan 2018 by Peter Hansteen and Massimiliano Stucchi
 * [OpenBSD Daily](https://blog.tintagel.pl/2017/06/09/openbsd-daily.html) - [mulander/openbsd-daily](https://github.com/mulander/openbsd-daily) - official repository with all openbsd-daily reading by mulander and duncaen
 
+[Back to top](#table-of-contents)
+
 ## OpenBSD Provisioning
 
 * https://github.com/ligurio/openbsd-cookbooks
@@ -343,6 +351,8 @@ The OpenBSD team often patches third party products, typically to improve the se
 * [doas](https://github.com/Duncaen/OpenDoas)
 * ksh(1): [ibara/oksh](https://github.com/ibara/oksh), [dimkr/ksh](https://github.com/dimkr/loksh)
 * [file(1)](https://github.com/brynet/file)
+
+[Back to top](#table-of-contents)
 
 ## OpenBSD Developers
 
@@ -381,3 +391,12 @@ The OpenBSD team often patches third party products, typically to improve the se
 
 ----
 Please [donate](https://www.openbsd.org/donations.html) to the OpenBSD project.
+
+
+## License
+
+MIT License 
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+[Back to top](#table-of-contents)
